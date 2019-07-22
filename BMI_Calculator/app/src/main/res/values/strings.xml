@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label">Calculate BMI</string>
+    <string name="textView">Body Mass Index (BMI)</string>
+    <string name="textView2">Weight</string>
+    <string name="textView3">lb</string>
+    <string name="textView4">Height</string>
+    <string name="textView6">feet</string>
+    <string name="textView7">inches</string>
+</resources>
