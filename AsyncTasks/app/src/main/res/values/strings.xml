@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="button_label">AsyncTask</string>
+    <string name="button_label2">Thread</string>
+</resources>
