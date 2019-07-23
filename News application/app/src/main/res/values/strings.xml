@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="goButton">Go</string>
+    <string name="tv_category">Show Categories</string>
+    <string name="tv_loading">Loading ...</string>
+    <string name="tv_outof">out of</string>
+</resources>
