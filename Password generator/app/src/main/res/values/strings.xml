@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv1">For Thread:</string>
+    <string name="tv2">Select Password Count:</string>
+    <string name="tv3">Select Password Length:</string>
+    <string name="gbutton">Generate</string>
+    <string name="tv4">For AsyncTask:</string>
+    <string name="gp_tv1">Passwords generated using Thread:</string>
+    <string name="gp_tv2">Passwords generated using AsyncTask:</string>
+    <string name="finishbutton">Finish</string>
+</resources>
