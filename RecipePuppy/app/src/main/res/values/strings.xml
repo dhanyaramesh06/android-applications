@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecipePuppy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_dish">Dish</string>
+    <string name="tv_addingre">Add Ingredients</string>
+    <string name="dish_hint">Enter a dish name</string>
+    <string name="bt_search">Search</string>
+    <string name="tv_title">Title:</string>
+    <string name="tv_ingredients">Ingredients:</string>
+    <string name="tv_url">URL:</string>
+    <string name="bt_finish">Finish</string>
+    <string name="tv_loading">Loading...</string>
+</resources>
