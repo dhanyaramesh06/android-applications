@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="et_city_hint">Enter a destination city</string>
+    <string name="et_type_hint">Choose a place type</string>
+    <string name="bt_search">Search</string>
+    <string name="bt_save">Save</string>
+    <string name="bt_viewtrips">View Trips</string>
+    <string name="checkbox">Add to Trip</string>
+    <string name="date">Choose date</string>
+    <string name="tripName">Enter trip name</string>
+    <string name="bt_back">Back</string>
+    <string name="tv_trip_name">Trip Name:</string>
+    <string name="tv_dest_city">Destination City:</string>
+    <string name="tv_trip_date">Trip Date:</string>
+    <string name="tv_places">Places:</string>
+    <string name="bt_viewmap">View Map</string>
+    <string name="bt_cancel">Cancel</string>
+</resources>
