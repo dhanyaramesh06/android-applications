@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "688670113471",
+    "firebase_url": "https://homework06-38520.firebaseio.com",
+    "project_id": "homework06-38520",
+    "storage_bucket": "homework06-38520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688670113471:android:b5070afbbf4a5a27",
+        "android_client_info": {
+          "package_name": "com.example.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXl3dx7n187M3irQKUX0zqPsqEENYe9eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688670113471-93fdu93eia1fa8pkfff9mbff503on73p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
