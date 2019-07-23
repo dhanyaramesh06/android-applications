@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+    <string name="tvweight">Weight (lbs)</string>
+    <string name="tvgender">Gender</string>
+    <string name="etweight">Enter Weight</string>
+    <string name="btSave">Save</string>
+    <string name="tbgender">M</string>
+    <string name="switchmale">M</string>
+    <string name="switchfemale">F</string>
+    <string name="tvdrinksize">Drink Size</string>
+    <string name="tvalcohol">Alcohol %</string>
+    <string name="size1">1 oz</string>
+    <string name="size2">5 oz</string>
+    <string name="size3">12 oz</string>
+    <string name="btadd_drink">Add Drink</string>
+    <string name="btreset">Reset</string>
+    <string name="tvbac">BAC Level :</string>
+    <string name="tvstatus">Your Status :</string>
+    <string name="percent">%</string>
+</resources>
