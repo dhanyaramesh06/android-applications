@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint">Enter a search Keyword</string>
+    <string name="tv_limit">Limit:</string>
+    <string name="bt_search">Search</string>
+    <string name="tv_sortby">Sort by:</string>
+    <string name="tv_results">Search Results</string>
+    <string name="tv_trackrating">Track rating</string>
+    <string name="tv_artistrating">Artist rating</string>
+    <string name="tv_track">Track:</string>
+    <string name="tv_artist">Artist:</string>
+    <string name="tv_date">Date:</string>
+    <string name="tv_album">Album:</string>
+</resources>
