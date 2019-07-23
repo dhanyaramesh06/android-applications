@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InClass07</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="current_expenses">Current Expenses:</string>
+    <string name="add_button">Add</string>
+    <string name="addexpense">Add an Expense</string>
+    <string name="expenseName">Expense Name</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="expense_details">Expense Details</string>
+    <string name="close">Close</string>
+    <string-array name="Categories">
+        <item>Select Category</item>
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
