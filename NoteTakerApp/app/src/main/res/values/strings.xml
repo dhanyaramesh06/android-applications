@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="et_email">Email</string>
+    <string name="et_pwd">Password</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_signup">Sign up</string>
+    <string name="et_fname">First Name</string>
+    <string name="et_lname">Last Name</string>
+    <string name="et_passwrd">Choose Password</string>
+    <string name="et_confirm_pwd">Repeat Password</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_addnote">Add Note</string>
+    <string name="bt_post">Post</string>
+    <string name="et_note">Add a note...</string>
+    <string name="bt_close">Close</string>
+
+</resources>

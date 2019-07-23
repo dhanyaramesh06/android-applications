@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Create_new_Fragment">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="161dp"
+            android:layout_marginLeft="161dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/camera_icon"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="303dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="42dp"
+            android:layout_marginLeft="42dp"
+            android:layout_marginTop="41dp"
+            android:ems="10"
+            android:hint="@string/name"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
+            android:inputType="textPersonName"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/camera" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="303dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="42dp"
+            android:layout_marginLeft="42dp"
+            android:layout_marginTop="28dp"
+            android:ems="10"
+            android:hint="@string/email"
+            android:inputType="textPersonName"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/name" />
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="303dp"
+            android:layout_height="41dp"
+            android:layout_marginStart="42dp"
+            android:layout_marginLeft="42dp"
+            android:layout_marginTop="34dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/phone"
+            android:maxLength="10"
+            android:digits="1234567890"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/email" />
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="131dp"
+            android:layout_marginLeft="131dp"
+            android:layout_marginTop="53dp"
+            android:text="@string/submit"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/phone" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="158dp"
+            android:layout_height="115dp"
+            android:layout_marginStart="116dp"
+            android:layout_marginLeft="116dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="29dp"
+            android:src="@drawable/default_photo"
+            app:layout_constraintBottom_toTopOf="@+id/name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.478" />
+
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>

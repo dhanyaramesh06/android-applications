@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InClass09</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="create_contact">Create New Contact</string>
+</resources>
